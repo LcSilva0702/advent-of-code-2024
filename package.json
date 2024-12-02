@@ -3,16 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "image": "ts-node image.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "ts-node": "^10.9.2"
-  },
-  "dependencies": {
+    "ts-node": "^10.9.2",
     "@types/node": "^22.10.1"
   }
 }
